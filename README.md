@@ -191,8 +191,8 @@ C++                      1 repo              █░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&bg_color=030014&title_color=00ff9d&icon_color=00d9ff&text_color=e0e0e0" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark&hide_border=true&background=030014&ring=00d9ff&fire=00ff9d&currStreakLabel=00ff9d" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raja-Shayyam&show_icons=true&hide_border=true&bg_color=030014&title_color=00ff9d&icon_color=00d9ff&text_color=e0e0e0" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Shayyam&theme=dark&hide_border=true&background=030014&ring=00d9ff&fire=00ff9d&currStreakLabel=00ff9d" height="170px" />
 </div>
 
 <div align="center">
