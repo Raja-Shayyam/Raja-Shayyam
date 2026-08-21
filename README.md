@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=CHAIN%20ARCHITECT&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20Systems%20%7C%20Security&descAlignY=58&descSize=17&descColor=00d9ff" width="100%"/>
+
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00ff9d&background=000000&center=true&vCenter=true&width=650&lines=root%40chain-architect%3A~%24+init_blockchain.sh;%3E+Compiling+smart+contracts...;%3E+Assembly+%7C+OS+%7C+Linux+%7C+InfoSec;%3E+DeFi+%7C+dApps+%7C+Zero-Knowledge+Proofs" alt="Terminal" />
+</h3>
+
+<p align="center">
+  <em style="color:#00d9ff">Blockchain & Systems Engineer — from Bare Metal to Smart Contracts</em>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Hello World, I'm [YOUR NAME]! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
 </h1>
