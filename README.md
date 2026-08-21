@@ -16,6 +16,7 @@
 npx connect-with-rehan --secure
 ```
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+```javascript
 const rehan = {
   name: "Rehan Raja",
   pronouns: ["he", "him"],
@@ -44,6 +45,7 @@ const rehan = {
   currentFocus: "Building blockchain projects & AI chat apps, while mastering systems & security",
   funFact: "I debug hardware with a multimeter and software with console.log 😄"
 };
+```
 
 ⚡ Tech Stack
 <p align="center">
