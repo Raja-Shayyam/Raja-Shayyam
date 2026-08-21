@@ -96,7 +96,78 @@ npx connect-with-[YOUR_NPM_HANDLE] --secure
 ---
 
 <!--START_SECTION:waka-->
-*(yahan auto-magic stats aayengi — neeche wala workflow setup karo)*
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 63 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+🌆 Daytime                45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌃 Evening                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+🌙 Night                  84 commits          ███████████░░░░░░░░░░░░░░   42.64 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Tuesday                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Saturday                 43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Sunday                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████████████░░░░░░░░░   62.50 % 
+Solidity                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+
+ Last Updated on 21/08/2026 20:49:53 UTC
 <!--END_SECTION:waka-->
 
 ---
