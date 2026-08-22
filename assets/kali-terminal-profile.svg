@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="118" viewBox="0 0 980 118">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .border { fill: none; stroke: #1f2937; stroke-width: 1.2; }
+      .mono { font-family: "JetBrains Mono", "Fira Code", "DejaVu Sans Mono", monospace; font-size: 18px; font-weight: 700; }
+      .user { fill: #90B800; }
+      .host { fill: #E1E100; }
+      .path { fill: #58A6FF; }
+      .prompt { fill: #90B800; }
+      .cmd { fill: #E6EDF3; }
+      .muted { fill: #8B949E; }
+    </style>
+    <clipPath id="c1"><rect x="60" y="66" width="0" height="28">
+      <animate attributeName="width" dur="24s" repeatCount="indefinite"
+        values="0;0;700;700;0;0" keyTimes="0;0.02;0.18;0.24;0.25;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="60" y="66" width="0" height="28">
+      <animate attributeName="width" dur="24s" repeatCount="indefinite"
+        values="0;0;0;0;800;800;0;0" keyTimes="0;0.25;0.27;0.27;0.43;0.49;0.50;1"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="60" y="66" width="0" height="28">
+      <animate attributeName="width" dur="24s" repeatCount="indefinite"
+        values="0;0;0;0;770;770;0;0" keyTimes="0;0.50;0.52;0.52;0.68;0.74;0.75;1"/>
+    </rect></clipPath>
+    <clipPath id="c4"><rect x="60" y="66" width="0" height="28">
+      <animate attributeName="width" dur="24s" repeatCount="indefinite"
+        values="0;0;0;0;760;760" keyTimes="0;0.75;0.77;0.77;0.93;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="980" height="118" rx="10"/>
+  <rect class="border" x="0.6" y="0.6" width="978.8" height="116.8" rx="10"/>
+
+  <!-- terminal dots -->
+  <circle cx="22" cy="18" r="4" fill="#ff5f56"/>
+  <circle cx="36" cy="18" r="4" fill="#ffbd2e"/>
+  <circle cx="50" cy="18" r="4" fill="#27c93f"/>
+  <text x="72" y="23" class="mono muted" font-size="12px">kali@rehan: ~/workspace</text>
+
+  <!-- Scene 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite"
+      values="1;1;0;0;0" keyTimes="0;0.245;0.25;0.995;1"/>
+    <text x="22" y="52" class="mono user">┌──(rehan</text>
+    <text x="145" y="52" class="mono host">㉿</text>
+    <text x="164" y="52" class="mono user">raja)</text>
+    <text x="226" y="52" class="mono path">-[~/projects]</text>
+    <text x="22" y="82" class="mono prompt">└─$</text>
+    <text x="60" y="82" class="mono cmd" clip-path="url(#c1)">Building production-style dApps...</text>
+    <rect y="64" width="9" height="22" fill="#90B800">
+      <animate attributeName="x" dur="24s" repeatCount="indefinite"
+        values="60;60;420;420;60;60" keyTimes="0;0.02;0.18;0.24;0.25;1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Scene 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.249;0.25;0.495;0.50;1"/>
+    <text x="22" y="52" class="mono user">┌──(rehan</text>
+    <text x="145" y="52" class="mono host">㉿</text>
+    <text x="164" y="52" class="mono user">raja)</text>
+    <text x="226" y="52" class="mono path">-[~/mission]</text>
+    <text x="22" y="82" class="mono prompt">└─$</text>
+    <text x="60" y="82" class="mono cmd" clip-path="url(#c2)">Building systems for trust, ownership and verification.</text>
+    <rect y="64" width="9" height="22" fill="#90B800">
+      <animate attributeName="x" dur="24s" repeatCount="indefinite"
+        values="60;60;60;60;650;650;60;60" keyTimes="0;0.25;0.27;0.27;0.43;0.49;0.50;1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Scene 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.499;0.50;0.745;0.75;1"/>
+    <text x="22" y="52" class="mono user">┌──(rehan</text>
+    <text x="145" y="52" class="mono host">㉿</text>
+    <text x="164" y="52" class="mono user">raja)</text>
+    <text x="226" y="52" class="mono path">-[~/stack]</text>
+    <text x="22" y="82" class="mono prompt">└─$</text>
+    <text x="60" y="82" class="mono cmd" clip-path="url(#c3)">Solidity | Hardhat | React | Node.js | C++</text>
+    <rect y="64" width="9" height="22" fill="#90B800">
+      <animate attributeName="x" dur="24s" repeatCount="indefinite"
+        values="60;60;60;60;525;525;60;60" keyTimes="0;0.50;0.52;0.52;0.68;0.74;0.75;1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Scene 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite"
+      values="0;0;1;1" keyTimes="0;0.749;0.75;1"/>
+    <text x="22" y="52" class="mono user">┌──(rehan</text>
+    <text x="145" y="52" class="mono host">㉿</text>
+    <text x="164" y="52" class="mono user">raja)</text>
+    <text x="226" y="52" class="mono path">-[~/status]</text>
+    <text x="22" y="82" class="mono prompt">└─$</text>
+    <text x="60" y="82" class="mono cmd" clip-path="url(#c4)">Open to Web3 internships &amp; open-source</text>
+    <rect y="64" width="9" height="22" fill="#90B800">
+      <animate attributeName="x" dur="24s" repeatCount="indefinite"
+        values="60;60;60;60;520;520" keyTimes="0;0.75;0.77;0.77;0.93;1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
