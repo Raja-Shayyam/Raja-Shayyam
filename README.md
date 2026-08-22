@@ -291,7 +291,76 @@ npx connect-with-rehan --secure
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
+**🐱 My GitHub Data** 
+
+> 📦 189.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 75 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+🌆 Daytime                51 commits          ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+🌃 Evening                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌙 Night                  90 commits          ███████████░░░░░░░░░░░░░░   43.06 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Tuesday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Saturday                 55 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Sunday                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████████████░░░░░░░░░   62.50 % 
+Solidity                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+
+ Last Updated on 22/08/2026 11:46:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
