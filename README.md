@@ -1,11 +1,13 @@
-# Rehan Raja — VS Code Style GitHub README
+# Rehan Raja — GitHub README
 
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B0C,50:174D22,100:071B0C&height=180&section=header&text=REHAN%20RAJA&fontSize=55&fontColor=E1E100&animation=twinkling&fontAlignY=36&desc=Blockchain%20%7C%20Full-Stack%20%7C%20AI%20%7C%20C%2B%2B&descAlignY=57&descSize=16&descColor=90B800" width="100%"/> -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=90B800&background=0D1117&center=false&vCenter=true&width=980&height=85&multiline=true&lines=%E2%94%8C%E2%94%80%E2%94%80%28rehan%E3%89%BFraja%29-%5B%7E%2Fprojects%5D%0A%E2%94%94%E2%94%80%24+Building+production-style+dApps...;%E2%94%8C%E2%94%80%E2%94%80%28rehan%E3%89%BFraja%29-%5B%7E%2Fmission%5D%0A%E2%94%94%E2%94%80%24+Building+systems+for+trust%2C+ownership+and+verification.;%E2%94%8C%E2%94%80%E2%94%80%28rehan%E3%89%BFraja%29-%5B%7E%2Fstack%5D%0A%E2%94%94%E2%94%80%24+Solidity+%7C+Hardhat+%7C+React+%7C+Node.js+%7C+C%2B%2B;%E2%94%8C%E2%94%80%E2%94%80%28rehan%E3%89%BFraja%29-%5B%7E%2Fstatus%5D%0A%E2%94%94%E2%94%80%24+Open+to+Web3+internships+%26+open-source" /> -->
 
-
+<div align="center">
+  <img src="./assets/kali-terminal-profile.svg" width="980"/>
+</div>
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1100&color=90B800&center=true&vCenter=true&width=900&lines=%3E+Designing+trust.+Shipping+code.+Breaking+things+to+learn.;%3E+From+C%2B%2B+logic+to+MERN+systems+to+Solidity+contracts.;%3E+Building+Web3+products+around+ownership%2C+verification+%26+coordination.;%3E+ProofWork+%7C+DeFi+%7C+dApps+%7C+AI-powered+products.;%3E+Still+learning.+Still+shipping.+Still+curious." /> -->
 
