@@ -81,7 +81,76 @@ const rehan = {
 </div>
 
 <!--START_SECTION:waka-->
-*(auto stats yahan aayengi — workflow run hone ke baad)*
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 189.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+🌆 Daytime                46 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌃 Evening                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌙 Night                  90 commits          ███████████░░░░░░░░░░░░░░   44.12 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Tuesday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Saturday                 50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Sunday                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████████████░░░░░░░░░   62.50 % 
+Solidity                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+
+ Last Updated on 22/08/2026 09:39:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
